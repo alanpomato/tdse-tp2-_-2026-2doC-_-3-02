@@ -24,3 +24,13 @@ Si se invoca `LOGGER_INFO()` dentro de la función de actualización de una tare
 
 * **Aumento del WCET:** El valor de `task_dta_list[index].WCET` de esa tarea aumentará drásticamente, ya que el prolongado tiempo de ejecución (`LET`) superará con seguridad los tiempos medidos en iteraciones anteriores[cite: 1].
 * **Aumento del Runtime:** El valor de `g_app_runtime_us` también sufrirá un incremento notable durante ese ciclo, puesto que debe sumar directamente este nuevo `LET` prolongado[cite: 1].
+
+
+
+
+
+-----------
+
+Luego de varias ejecuciones de app_update() , leer y almacenar los valores de task_dta_list [index] ( indicar unidad de medida), de cada tarea en : …\ tdse_workspace \ tdse-tp2_00-model_integration \ tdse-tp2_00-app.md .
+
+<img width="669" height="539" alt="image" src="https://github.com/user-attachments/assets/4830778b-42a9-4af2-a7bf-f0611b7caed2" />
