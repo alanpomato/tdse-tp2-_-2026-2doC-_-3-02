@@ -7,6 +7,10 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_05-model_integration"/>
+			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_04-model_integration"/>
+			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_03-model_integration"/>
+			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_02-model_integration"/>
 			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_00-model_integration"/>
 			<item value="C:\Users\alang\Desktop\tse\TP2_v\tdse-tp2_01-model_integration"/>
 		</list>

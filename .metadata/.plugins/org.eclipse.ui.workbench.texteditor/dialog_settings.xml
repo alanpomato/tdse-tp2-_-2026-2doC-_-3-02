@@ -3,14 +3,20 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
-		<item value="BTN_A_PRESSED"/>
-		<item value="running"/>
-		<item value="task_sens"/>
-		<item value="task"/>
-		<item value="is running"/>
-		<item value="DEL_BTN_MAX"/>
-		<item value="RISING"/>
-		<item value="IDLE"/>
-		<item value="tick"/>
+		<item value="DEL_SYS_MAX"/>
+		<item value="delay"/>
+		<item value="hal"/>
+		<item value="put_event_task_actuator"/>
+		<item value="led_a"/>
+		<item value="SIGNAL"/>
+		<item value="task_system_update"/>
+		<item value="normal"/>
+		<item value="g_task_system_mode"/>
+		<item value="task_sensor_cfg_t"/>
+		<item value="sensor"/>
+		<item value="task_sensor_init"/>
+		<item value="port"/>
+		<item value="ID_BTN_A"/>
+		<item value="UPDATE"/>
 	</list>
 </section>
