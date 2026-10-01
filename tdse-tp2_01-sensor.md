@@ -1,6 +1,7 @@
 En esta actividad se procedió a modificar la lógica del Botón B1 color azul de la placa, implementada en task_sensor.c.
 La lógica anterior no contemplaba el anti-rebote, por lo que se agregaron los estados correspondientes:
 
+<img width="629" height="430" alt="task_sensor" src="https://github.com/user-attachments/assets/baa4ffcc-ebf0-4c6f-941d-e5e5e49bb341" />
 
 <img width="858" height="379" alt="image" src="https://github.com/user-attachments/assets/2f66616f-65bb-41f4-844f-c5e3fa088b84" />
 
